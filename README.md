@@ -1,5 +1,7 @@
 # FusionProteinBuilder
 
+### [Report](https://philippeffer.github.io/FusionProteinBuilder/)
+
 ## Summary
 
 The goal of the `RTKfusion.py` script is to generate the amino acid sequence of a fusion protein specified by the user. The user enters the names of the protein Ig domains in the order in which they should be constructed, and the program retrieves their sequences from the UniProtKB database and concatenates them along with the Fc domain of IgG1 to create a fusion protein similar to VEGF-Trap.
